@@ -1,0 +1,6 @@
+{
+  // json overrides default
+  "option": false,
+  /* env overrides json */
+  "envOption": 24
+}
