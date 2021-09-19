@@ -17,6 +17,10 @@
     "unix",
     "defaults"
   ],
+  "files": [
+    "index.js",
+    "src"
+  ],
   "originalAuthor": "Dominic Tarr <dominic.tarr@gmail.com> (dominictarr.com)",
   "dependencies": {
     "@jtwebb/strip-json-comments": "^1.0.0",
